@@ -1,6 +1,6 @@
 - 👋 Hi, Valeria Arias. I'm Mexican and a Student.
 - 👀 I’m interested in coding, comics, manga and action/sci-fi movies.
-- 🌱 I’m currently studying Software Development Engineer, at TecMilenio University.
+- 🌱 I’m currently studying Software Development Engineering, at TecMilenio University.
 - 💞️ I am looking to collaborate with companies dedicated to the development of new technologies.
 - 📫 How to reach me:
     Arias.VM@outlook.com
